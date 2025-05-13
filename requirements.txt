@@ -1,0 +1,21 @@
+# LaTeX Package Requirements
+# This file lists the LaTeX packages used by the resume templates in this project.
+# These are typically managed by your LaTeX distribution (e.g., TeX Live, MiKTeX, MacTeX).
+
+# Packages for MTeck/resume.tex
+fullpage
+titlesec
+enumitem
+hyperref
+fancyhdr
+fontawesome5
+multicol
+bookmark
+lastpage
+CormorantGaramond
+charter
+xcolor
+
+# Additional packages for og/resume_og.tex
+geometry
+amath
