@@ -1,16 +1,22 @@
 # LaTeX Resume Project
 
-This project contains LaTeX templates and content for generating a professional resume.
+This project contains LaTeX templates and modular content files for generating a professional resume.
 
 ## Directory Structure
 
-- **`/MTeck`**: Contains a modern, styled resume template (`resume.tex`) and the raw text content (`resume_content.txt`) used to populate it.
+- **`/MTeck`**: Contains a modern, styled resume template (`resume.tex`).
 - **`/og`**: Contains an original, simpler resume template (`resume_og.tex`).
+- **`/assets`**: Contains modular content files organized as follows:
+  - **`/assets/experience/`**: Individual .tex files for each professional experience (e.g., `coreops_experience.tex`, `paytm_experience.tex`)
+  - **`/assets/other/`**: Contains reusable content files for common sections:
+    - `job_title.tex`: Contains the job title text
+    - `summary.tex`: Contains the resume summary text
+    - `technologies.tex`: Contains the technologies section text
+    - `other_skills.tex`: Contains the other skills section text
 
 ## Key Files
 
 - **`MTeck/resume.tex`**: The main resume file using the MTeck styling. This is likely the primary resume you'll be using.
-- **`MTeck/resume_content.txt`**: A plain text file containing the skills and experience details. This content is used to populate both `MTeck/resume.tex` and `og/resume_og.tex`.
 - **`og/resume_og.tex`**: A resume file using a more traditional and simpler LaTeX format.
 - **`README.md`**: This file, providing an overview of the project.
 - **`requirements.txt`**: Lists the LaTeX packages used by the resume templates.

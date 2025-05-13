@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.12)  12 MAY 2025 23:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.12)  14 MAY 2025 00:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -358,14 +358,60 @@ Package hyperref Info: Link coloring OFF on input line 17.
 \@outlinefile=\write3
 \openout3 = `resume_og.out'.
 
+ (../assets/other/job_title.tex)
+(../assets/other/summary.tex) (../assets/other/technologies.tex)
+(../assets/other/other_skills.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 40--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--57
+
+ []
+
 
 
 [1{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 {/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 
+Underfull \hbox (badness 10000) in paragraph at lines 66--70
 
-[2] (./resume_og.aux)
+ []
+
+
+Overfull \hbox (7.54591pt too wide) in paragraph at lines 72--73
+[]\OT1/cmr/m/n/10 Oversaw \OT1/cmr/bx/n/10 team and rev-enue growth\OT1/cmr/m/n
+/10 , busi-ness and re-la-tion-ship de-vel-op-ment, and client/stakeholder
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--81
+
+ []
+
+
+Overfull \hbox (12.3856pt too wide) in paragraph at lines 82--83
+[]\OT1/cmr/m/n/10 Utilized \OT1/cmr/bx/n/10 ad-vanced al-go-rithms (ANN, NN em-
+bed-dings, XG-Boost) and champion-challenger
+ []
+
+
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 87--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--100
+
+ []
+
+
+
+[3] (./resume_og.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -374,23 +420,23 @@ Package rerunfilecheck Info: File `resume_og.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9740 strings out of 473190
- 151252 string characters out of 5715800
+ 9765 strings out of 473190
+ 151981 string characters out of 5715800
  573780 words of memory out of 5000000
- 32923 multiletter control sequences out of 15000+600000
+ 32934 multiletter control sequences out of 15000+600000
  560780 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,390b,527s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,390b,554s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
 usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></u
 sr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr
 /local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on resume_og.pdf (2 pages, 97285 bytes).
+Output written on resume_og.pdf (3 pages, 100745 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
- 33 compressed objects within 1 object stream
- 3 named destinations out of 1000 (max. 500000)
+ 54 PDF objects out of 1000 (max. 8388607)
+ 36 compressed objects within 1 object stream
+ 4 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
